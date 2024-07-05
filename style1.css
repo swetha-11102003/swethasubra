@@ -1,0 +1,26 @@
+p{
+    text-align:justify;
+    front-style:larger;
+    front-family:"Times New Romen",Times,serif;
+    word-spacing:10px;
+
+}
+h2{
+    text-align:left;
+    color:red;
+
+}
+p3{
+    text-align:justify;
+}
+h{
+    front-size:xx-large;
+    front-family:Arial,Helvetica,sans-serif;
+    front-size:xx-large;
+    background-color:purple;
+}
+img{
+    margin-top:80px;
+    margin-radius:100px;
+    margin-bottom:50px;
+}
